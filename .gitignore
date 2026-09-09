@@ -1,0 +1,15 @@
+# Raw and cleaned data (too large for a normal repo — see data/raw/README.md)
+data/raw/*.csv
+data/raw/*.zip
+outputs/DataCo_cleaned.csv
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
